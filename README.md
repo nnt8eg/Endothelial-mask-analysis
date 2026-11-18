@@ -1,6 +1,6 @@
 # Network dysregulation analysis pipeline
 
-This pipeline quantifies **endothelial-fibroblast networks** under TGF-B1 stimulation (irregular vessel diameters, irregular segment lengths, "chunky" branch points, uneven mesh
+This pipeline quantifies endothelial-fibroblast networks under TGF-B1 stimulation (irregular vessel diameters, irregular segment lengths, "chunky" branch points, uneven mesh
 spacing) from manually-traced negative-space annotations of
 endothelial/fibroblast networks in QuPath.
 
